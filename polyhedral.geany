@@ -10,8 +10,8 @@ strip_trailing_spaces=false
 replace_tabs=false
 
 [indentation]
-indent_width=4
-indent_type=1
+indent_width=2
+indent_type=0
 indent_hard_tab_width=8
 detect_indent=false
 detect_indent_width=false
@@ -21,21 +21,23 @@ indent_mode=2
 name=2048
 base_path=/home/gerald/Development/32blit-beta/2048/
 description=
+file_patterns=
 
 [long line marker]
 long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
-FILE_NAME_0=1746;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2Fpolyhedral.cpp;0;4
-FILE_NAME_1=0;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2Fpolyhedral.hpp;0;4
-FILE_NAME_2=364;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2FREADME.md;0;4
-FILE_NAME_3=0;CMake;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2FCMakeLists.txt;0;4
-FILE_NAME_4=0;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2F32blit%2Ftypes%2Fvec3.cpp;0;4
-FILE_NAME_5=199;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2F32blit%2Ftypes%2Fvec3.hpp;0;4
-FILE_NAME_6=139;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2Fcolour.hpp;0;4
-FILE_NAME_7=205;CMake;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2FCMakeLists.txt;0;4
+current_page=1
+FILE_NAME_0=1241;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2Fpolyhedral.cpp;0;4
+FILE_NAME_1=425;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2Fpolyhedron.cpp;0;4
+FILE_NAME_2=949;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2Fpolyhedron.hpp;0;4
+FILE_NAME_3=346;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fexamples%2Fhardware-test%2Fhardware-test.cpp;0;4
+FILE_NAME_4=0;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2Fpolyhedral.hpp;0;4
+FILE_NAME_5=6042;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2F32blit%2Fgraphics%2Fprimitive.cpp;0;4
+FILE_NAME_6=139;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2F32blit%2Ftypes%2Fpoint.hpp;0;4
+FILE_NAME_7=13009;C++;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fraytrace%2Fraytrace.cpp;0;4
+FILE_NAME_8=142;CMake;0;EUTF-8;1;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2FCMakeLists.txt;0;4
 
 [VTE]
 last_dir=/home/gerald

@@ -9,10 +9,11 @@ currently display of model from data points
  applied.
 
 To do
-add joystick control
 add dpad extra control
-display faces in visable order
+display faces in visible order
 miss hidden faces
+load ply file
+make ship class, with flight control elements
 
 add game elements
 pull in assets and skew to faces
