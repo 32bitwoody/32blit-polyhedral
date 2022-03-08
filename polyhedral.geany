@@ -18,8 +18,8 @@ detect_indent_width=false
 indent_mode=2
 
 [project]
-name=2048
-base_path=/home/gerald/Development/32blit-beta/2048/
+name=polyhedral
+base_path=%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33
 description=
 file_patterns=
 
@@ -29,12 +29,17 @@ long_line_column=72
 
 [files]
 current_page=1
-FILE_NAME_0=1494;C++;0;EUTF-8;0;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2Fpolyhedral.cpp;0;2
-FILE_NAME_1=5752;C++;0;EUTF-8;0;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2Fpolyhedron.cpp;0;2
-FILE_NAME_2=0;C++;0;EUTF-8;0;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral%2Fpolyhedral.hpp;0;2
-FILE_NAME_3=1005;C++;0;EUTF-8;0;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral-commit1%2Fpolyhedron.hpp;0;2
-FILE_NAME_4=4066;C++;0;EUTF-8;0;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fpolyhedral-keep%2Fpolyhedral.cpp;0;2
-FILE_NAME_5=0;C++;0;EUTF-8;0;1;0;%2Fhome%2Fgerald%2FDevelopment%2F32blit-beta%2Fexamples%2Fhardware-test%2Fhardware-test.cpp;0;2
+FILE_NAME_0=128;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fconstants.hpp;0;2
+FILE_NAME_1=14198;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fpolyhedral.cpp;0;2
+FILE_NAME_2=815;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fpolyhedral.hpp;0;2
+FILE_NAME_3=17521;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fvehicle.cpp;0;2
+FILE_NAME_4=1769;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fvehicle.hpp;0;2
+FILE_NAME_5=2831;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fdial.cpp;0;2
+FILE_NAME_6=334;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fdial.hpp;0;2
+FILE_NAME_7=16021;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fpolyhedron.cpp;0;2
+FILE_NAME_8=147;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fpolyhedron.hpp;0;2
+FILE_NAME_9=1523;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fobject.cpp;0;2
+FILE_NAME_10=1332;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpaul.woodrow%2FDevelopment%2F32blit%2Fpolyhedral-v0.33%2Fobject.hpp;0;2
 
 [VTE]
-last_dir=/home/gerald
+last_dir=/home

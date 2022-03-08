@@ -1,0 +1,8 @@
+title: Polyhedral
+description: Manipulation of polyhedral shapes. Using .hpp to define model and keeping a depth buffer
+author: 32bitwoody
+splash:
+  file: assets/meta-splash.png
+icon:
+  file: assets/meta-icon.png
+version: v0.33.0210

@@ -1,4 +1,6 @@
 cmake_minimum_required(VERSION 3.8)
 project (polyhedral)
-include (../32blit.cmake)
-blit_executable (polyhedral polyhedral.cpp polyhedron.cpp)
+find_package (32BLIT CONFIG REQUIRED PATHS ../..)
+blit_executable (polyhedral constants.hpp polyhedral.cpp dial.cpp polyhedron.cpp vehicle.cpp object.cpp)
+blit_assets_yaml(polyhedral assets.yml)
+blit_metadata (polyhedral metadata.yml)

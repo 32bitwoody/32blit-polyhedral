@@ -1,0 +1,16 @@
+assets.cpp:
+  assets/pyramid.obj:
+    name: pyramid_obj
+    type: raw/binary
+    
+  assets/wedge.obj:
+    name: wedge_obj
+    type: raw/binary
+    
+  assets/ship2t.obj:
+    name: ship2t_obj
+    type: raw/binary
+        
+  assets/tetra.obj:
+    name: tetra_obj
+    type: raw/binary
